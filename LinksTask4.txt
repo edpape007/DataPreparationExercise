@@ -1,0 +1,14 @@
+Day1
+https://www.kaggle.com/edgardopanza/data-cleaning-challenge-handling-missing-values?scriptVersionId=26647018
+
+Day2
+https://www.kaggle.com/edgardopanza/data-cleaning-challenge-scale-and-normalize-data?scriptVersionId=26648530
+
+Day3
+https://www.kaggle.com/edgardopanza/data-cleaning-challenge-parsing-dates?scriptVersionId=26649472
+
+Day4
+https://www.kaggle.com/edgardopanza/data-cleaning-challenge-character-encodings?scriptVersionId=26651603
+
+Day5
+https://www.kaggle.com/edgardopanza/data-cleaning-challenge-inconsistent-data-entry?scriptVersionId=26652098
