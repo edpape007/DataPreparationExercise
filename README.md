@@ -17,6 +17,6 @@ https://www.kaggle.com/edgardopanza/data-cleaning-challenge-parsing-dates?script
 
 https://www.kaggle.com/edgardopanza/data-cleaning-challenge-character-encodings?scriptVersionId=26651603
 
-# Data Cleaning Challenge - Inconsisten Data Entry
+# Data Cleaning Challenge - Inconsistent Data Entry
 
 https://www.kaggle.com/edgardopanza/data-cleaning-challenge-inconsistent-data-entry?scriptVersionId=26652098
